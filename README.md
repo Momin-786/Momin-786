@@ -23,9 +23,9 @@
 &nbsp; <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/abdul momin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul momin" height="30" width="40" /></a>
-<a href="https://fb.com/abdul momin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul momin" height="30" width="40" /></a>
-<a href="https://instagram.com/its_mominn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_mominn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdul-momin-b6876127a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul momin" height="30" width="40" /></a>
+<a href="https://www.facebook.com/silent.m786?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul momin" height="30" width="40" /></a>
+<a href="https://instagram.com/its_mominn?igshid=ZDc4ODBmNjlmNQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_mominn" height="30" width="40" /></a>
 </p>
 
 &nbsp; 
