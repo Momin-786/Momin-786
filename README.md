@@ -1,8 +1,8 @@
 ![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
 
-<h1 align="center">Hi 👋, I'm Abdul-Momin</h1>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=momin-786&label=Profile%20views&color=0e75b6&style=flat" alt="momin-786" /> </p>   <h1 align="center">Hi 👋, I'm Abdul-Momin</h1>
 <h3 align="center">A passionate software engineering student eager to learn and grow in the world of technology.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=momin-786&label=Profile%20views&color=0e75b6&style=flat" alt="momin-786" /> </p>
+
 
 
 
