@@ -20,7 +20,7 @@
 
 
 &nbsp; <h2 align="left">🌐 Connect with me:</h2>
-<img align="right" margin = "150px" alt="Coding" width="380" height="150" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" margin = "150px" alt="Coding" width="380" height="190" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <br>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdul-momin-b6876127a" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul momin" height="30" width="40" /></a>
@@ -47,7 +47,7 @@
  
  
  # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Momin-786&theme=dark&hide_border=false)![](https://github-readme-stats.vercel.app/api?username=Momin-786&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Momin-786&theme=dark&hide_border=false)! [](https://github-readme-stats.vercel.app/api?username=Momin-786&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=b&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  
 
