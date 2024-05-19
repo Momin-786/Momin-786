@@ -18,10 +18,9 @@
 
 - ⚡ Fun fact **Big money awaits in coding**
 
-<br>
-<img align="right" margin = "150px" alt="Coding" width="400" height="225" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 &nbsp; <h2 align="left">🌐 Connect with me:</h2>
+<img align="right" margin = "150px" alt="Coding" width="380" height="150" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <br>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdul-momin-b6876127a" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul momin" height="30" width="40" /></a>
@@ -29,10 +28,10 @@
 <a href="https://instagram.com/its_mominn?igshid=ZDc4ODBmNjlmNQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_mominn" height="30" width="40" /></a>
 <a href="https://x.com/AbdulMomin7863" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="its_mominn" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/Momin-786" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="its_mominn" height="30" width="79" /></a>
-<br>
+<br><br>
 </p>
 
-&nbsp; 
+&nbsp;<br> 
 # 💻 Tech Stack:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
