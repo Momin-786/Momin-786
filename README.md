@@ -25,9 +25,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/abdul-momin-b6876127a" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul momin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/silent.m786?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul momin" height="30" width="40" /></a>
-<a href="https://instagram.com/its_mominn?igshid=ZDc4ODBmNjlmNQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_mominn" height="30" width="40" /></a>
-<a href="https://x.com/AbdulMomin7863" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="its_mominn" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/Momin-786" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="its_mominn" height="30" width="79" /></a>
+<a href="https://instagram.com/its_mominn?igshid=ZDc4ODBmNjlmNQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_mominn" height="30" width="40" /></a> 
+<a href="https://x.com/AbdulMomin7863" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="its_mominn" height="30" width="47" /></a>  
+<a href="https://stackoverflow.com/users/Momin-786" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="its_mominn" height="30" width="91" /></a>
 <br><br>
 </p>
 
