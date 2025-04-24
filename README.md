@@ -23,7 +23,6 @@
 
 ## 🌐 Connect with me:
 
-<img align="right" alt="Coding" width="380" height="190" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdul-momin-b6876127a" target="blank"> 
