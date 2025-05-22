@@ -45,7 +45,8 @@
 ---
 
 ## 🌐 Portfolio
-🚀 **Check out my portfolio:** [Visit My Portfolio](mosol.infy.uk)
+🚀 **Check out my portfolio:** [Visit My Portfolio](https://mosol.infy.uk)
+
 
 ---
 
