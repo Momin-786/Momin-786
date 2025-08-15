@@ -5,47 +5,46 @@
 </p>   
 
 <h1 align="center">Hi 👋, I'm Abdul-Momin</h1>
-<h3 align="center">A passionate software engineering student eager to learn and grow in the world of technology.</h3>
+<h3 align="center">A passionate Software Engineering student and Full-Stack Developer focused on building modern, high-quality web applications.</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
-
-- 💬 Ask me about **What You Want**
-
-- 📫 If you'd like to connect or collaborate on exciting projects, feel free to reach out to me.
-
-- 🌟 My main areas of interest lie in Coding, where I enjoy tackling challenging problems and finding elegant solutions.
-
-- 🌐 I believe in the power of collaboration and love sharing knowledge with others.
-
-- ⚡ Fun fact **Big money awaits in coding**
+- 🚀 I have mastered **MERN Stack** and now work with **modern, cutting-edge technologies**
+- 💼 Currently working as a **Freelance Developer** (2023–present), delivering custom full-stack solutions for diverse industries
+- 💬 Ask me about **web development, MERN, Flutter, Spring Boot, and modern app architectures**
+- 📚 Final-year Software Engineering student at **COMSATS University Abbottabad** (CGPA 4.0)
+- 🏆 Recipient of the **Best Academic Result Award** (2023 & 2025)
+- 🌟 I enjoy solving challenging problems and building scalable, efficient solutions
+- ⚡ Fun fact: **Coding isn’t just a skill — it’s a superpower**
 
 ---
 
-## 🌐 Connect with me:
-
+## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdul-momin-b6876127a" target="blank"> 
+  <a href="https://www.linkedin.com/in/abdul-momin-b6876127a" target="_blank"> 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/silent.m786?mibextid=ZbWKwL" target="blank">
+  <a href="https://www.facebook.com/silent.m786?mibextid=ZbWKwL" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/its_mominn?igshid=ZDc4ODBmNjlmNQ==" target="blank">
+  <a href="https://instagram.com/its_mominn?igshid=ZDc4ODBmNjlmNQ==" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a> 
-  <a href="https://x.com/AbdulMomin7863" target="blank">
+  <a href="https://x.com/AbdulMomin7863" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="Twitter/X" height="30" width="47" />
   </a>  
-  <a href="https://stackoverflow.com/users/Momin-786" target="blank">
+  <a href="https://stackoverflow.com/users/Momin-786" target="_blank">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="StackOverflow" height="30" width="91" />
   </a>
+  <a href="https://motofolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=vercel&logoColor=white" alt="Portfolio" height="30" width="91" />
+  </a>
 </p>
+
 
 ---
 
 ## 🌐 Portfolio
-🚀 **Check out my portfolio:** [Visit My Portfolio](https://mosol.infy.uk)
+🚀 **Check out my portfolio:** [Visit My Portfolio](https://motofolio.vercel.app/)
 
 
 ---
