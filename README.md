@@ -1,50 +1,37 @@
-![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=momin-786&label=Profile%20views&color=0e75b6&style=flat" alt="momin-786" /> 
 </p>   
 
 <h1 align="center">Hi 👋, I'm Abdul-Momin</h1>
-<h3 align="center">A passionate Software Engineering student and Full-Stack Developer focused on building modern, high-quality web applications.</h3>
+<h3 align="center">Full-Stack Engineer</h3>
 
-- 🚀 I have mastered **MERN Stack** and now work with **modern, cutting-edge technologies**
-- 💼 Currently working as a **Freelance Developer** (2023–present), delivering custom full-stack solutions for diverse industries
-- 💬 Ask me about **web development, MERN, Flutter, Spring Boot, and modern app architectures**
-- 📚 Final-year Software Engineering student at **COMSATS University Abbottabad** (CGPA 4.0)
+- 🌍 I'm based in *Pakistan*
+- 💼 Currently working as a Full-Stack Engineer at EBOSOFT while pursuing my software engineering degree at COMSATS University Islamabad.
+- 💬 Ask me about *React/Next.js development, building RESTful APIs, Flutter mobile apps, AI integration in web apps, or getting started with full-stack development*
+- 📚 Currently learning Microservices Architecture, diving deeper into ScyllaDB for high-performance databases, and exploring advanced AI/ML applications with TensorFlow
 - 🏆 Recipient of the **Best Academic Result Award** (2023 & 2025)
-- 🌟 I enjoy solving challenging problems and building scalable, efficient solutions
-- ⚡ Fun fact: **Coding isn’t just a skill — it’s a superpower**
+- 🌟 looking to collaborate on AI-powered web applications, open-source full-stack projects, and innovative mobile apps that solve real-world problems
+- ⚡ Fun fact: **There are 10 types of people in the world: Those who understand binary, and those who don't**
+- ✉️ You can contact me at *momina7863@gmail.com*
 
 ---
 
 ## 🌐 Connect with me
-
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdul-momin-b6876127a" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/silent.m786?mibextid=ZbWKwL" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/its_mominn?igshid=ZDc4ODBmNjlmNQ==" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a> 
-  <a href="https://x.com/AbdulMomin7863" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="Twitter/X" height="30" width="47" />
-  </a>  
-  <a href="https://stackoverflow.com/users/Momin-786" target="_blank">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="StackOverflow" height="30" width="91" />
-  </a>
-  <a href="https://motofolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=vercel&logoColor=white" alt="Portfolio" height="30" width="91" />
-  </a>
+  <a href="https://www.linkedin.com/in/abdul-momin-b6876127a" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/silent.m786?mibextid=ZbWKwL" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://instagram.com/its_mominn?igshid=ZDc4ODBmNjlmNQ==" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://x.com/AbdulMomin7863" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="Twitter/X" height="30" width="47" /></a>
+  <a href="https://stackoverflow.com/users/Momin-786" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="StackOverflow" height="30" width="91" /></a>
 </p>
 
 
 ---
 
 ## 🌐 Portfolio
-🚀 **Check out my portfolio:** [Visit My Portfolio](https://motofolio.vercel.app/)
+🚀 **Check out my portfolio:**  <a href="https://abdulmomin.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=vercel&logoColor=white" alt="Portfolio" height="30" width="91" /></a>
 
 
 ---
@@ -62,13 +49,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Momin-786&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Momin-786&theme=dark&hide_border=false&layout=compact)
 
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Momin-786&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 
 ### ✍️ Random Dev Quote
 
