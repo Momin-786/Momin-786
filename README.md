@@ -220,11 +220,77 @@ const abdulMomin = {
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Momin-786&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=86400" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Momin-786&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&area_color=70a5fd&hide_border=false&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Momin-786/Momin-786/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Momin-786/Momin-786/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://github.com/Momin-786/Momin-786/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 💡 Dev Philosophy
+
+<div align="center">
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+> *"Clean code is not written by following a set of rules. It's written by someone who cares."* — Robert C. Martin
+
+> *"Programs must be written for people to read, and only incidentally for machines to execute."* — Harold Abelson
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## ✍️ Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 👀 Thanks for visiting — let's build something that matters.
+
+[![Portfolio](https://img.shields.io/badge/🚀%20Visit%20Portfolio-0077B5?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulmomin.dev/)
+&nbsp;
+[![Email](https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:momina7863@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/🤝%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-momin-b6876127a)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=130&section=footer" />
+
+</div>
 <img width="49%" src="https://streak-stats.demolab.com/?user=Momin-786&theme=tokyonight&hide_border=false" />
 
 <br/><br/>
