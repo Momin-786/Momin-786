@@ -224,12 +224,12 @@ const abdulMomin = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Momin-786&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Momin-786&theme=tokyonight&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Momin-786&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=86400" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Momin-786&theme=tokyonight&hide_border=false" />
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momin-786&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momin-786&theme=tokyonight&hide_border=false&layout=compact&langs_count=8&cache_seconds=86400" />
 <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Momin-786&theme=tokyonight&utcOffset=5" />
 
 </div>
@@ -242,7 +242,7 @@ const abdulMomin = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Momin-786&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Momin-786&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=6)
 
 </div>
 
