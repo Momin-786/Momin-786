@@ -36,7 +36,7 @@ const abdulMomin = {
   openTo         : ["AI-powered web apps", "Open-source full-stack projects", "Innovative mobile apps"],
   askMeAbout     : ["React/Next.js", "RESTful APIs", "Flutter", "AI integration"],
   funFact        : "There are 10 types of people: those who understand binary, and those who don't 😄",
-  contact        : "momina7863@gmail.com",
+  contact        : "hi@abdulmomin.dev",
   portfolio      : "https://abdulmomin.dev",
 };
 ```
@@ -51,7 +51,7 @@ const abdulMomin = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-momin-b6876127a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulmomin.dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:momina7863@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@abdulmomin.dev)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AbdulMomin7863)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/its_mominn)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/silent.m786)
@@ -282,7 +282,7 @@ const abdulMomin = {
 
 [![Portfolio](https://img.shields.io/badge/🚀%20Visit%20Portfolio-0077B5?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulmomin.dev/)
 &nbsp;
-[![Email](https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:momina7863@gmail.com)
+[![Email](https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@abdulmomin.dev)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/🤝%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-momin-b6876127a)
 
