@@ -220,34 +220,6 @@ const abdulMomin = {
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Momin-786&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&area_color=70a5fd&hide_border=false&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Momin-786/Momin-786/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Momin-786/Momin-786/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://github.com/Momin-786/Momin-786/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
 ## 💡 Dev Philosophy
 
 <div align="center">
